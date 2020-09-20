@@ -57,4 +57,4 @@ client.on('message', async message => {
     }
 });
 
-client.login('NzU3MDIzODc3MTQ1ODIxMjc2.X2aXbQ.-YbCSPEm7VMTAJ9caT2MisuxS2E');
+//client.login(--> Update here 'Discord Token')
